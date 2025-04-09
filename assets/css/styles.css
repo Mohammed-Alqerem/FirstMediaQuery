@@ -129,7 +129,8 @@ header .flex {
   left: 0;
   z-index: -1;
   bottom: 20px;
-  width: 100%;
+ 
+  
 }
 
 .services svg{
@@ -213,4 +214,39 @@ flex-direction: column;
 .testimonial .content.flex{
   gap: 2rem;
   justify-content: flex-start;
+}
+
+.img-section1{
+  width: 100%;
+}
+
+
+.section1 button{
+width: 200px;
+border-radius: 55px;
+height: 60px;
+margin-top: 37px;
+background-color: white;
+color: blue;
+outline: none;
+border: solid 1.4px blue;
+}
+
+.section1 h2{
+  font-size: 36px;
+  font-weight: 700;
+  
+}
+
+.section1 img{
+  margin: 27px 0 31px 0;
+}
+
+.section1 p{
+  
+  font-size: 18px;
+  font-weight: 300;
+}
+.section1 .container .flex{
+  gap: 137px;
 }

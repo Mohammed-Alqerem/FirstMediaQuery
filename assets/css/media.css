@@ -44,6 +44,14 @@
        .card{
         max-width: 100%;
       }
+      .cards-bg{
+        width: 100%;
+      }
+
+    .section1 .container .flex{
+      flex-direction: column;
+      text-align: center;
+     }
 
   }
   @media screen and (max-width :770px){
