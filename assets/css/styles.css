@@ -250,3 +250,41 @@ border: solid 1.4px blue;
 .section1 .container .flex{
   gap: 137px;
 }
+
+.section2 .container{
+  gap: 79px;
+}
+
+.img-line{
+  
+  margin: 30px 0 31px 0;
+}
+
+.para-section2{
+  margin-bottom: 40px;
+}
+
+.section2 button{
+  width: 200px;
+  border-radius: 55px;
+  height: 60px;
+  margin-top: 37px;
+  background-color: white;
+  color: blue;
+  outline: none;
+  border: solid 1.4px blue;
+  
+  }
+
+  .img-arrow-section2{
+    position: relative;
+    bottom: -4px;
+    right: -10px;
+  }
+.img-section2{
+  width: 100%;
+}
+
+.test{
+  width: 100%;
+}
