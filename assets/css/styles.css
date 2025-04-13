@@ -356,8 +356,9 @@ border: solid 1.4px blue;
 }
 
 footer{
-  background-color:#458FF6;
+  background: linear-gradient(to left ,#67C3F3,#5A98F2);
   color: white;
+  position: relative;
 }
 
 .Circle-white-logo{
@@ -366,7 +367,7 @@ footer{
   
 }
 .footer-section1-white-logo-text{
-  width: 38%;
+  width: 30%;
 }
 
 .footer-section1-white-logo-text  p{
@@ -390,6 +391,16 @@ footer{
 
 .footer-para{
   padding: 22px 0 31px 0;
+  font-size: 18px;
+  color: #ffff;
+  line-height: 28px;
+}
+.copy-para{
+  font-size: 16px;
+  line-height: 28px;
+  color: #ffff;
+
+
 }
 .T-text-logo{
   padding-right: 2px;
@@ -412,6 +423,26 @@ footer{
 
 .img-flex{
  padding-top: 20px ;
+}
+
+.a{
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 60px;
+
+}
+h5{
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 38px;
+}
+
+.footer-top-right-img{
+  position: absolute;
+  top:-70px;
+  right: 80px;
+  z-index: -1;
+ 
 }
 
 
