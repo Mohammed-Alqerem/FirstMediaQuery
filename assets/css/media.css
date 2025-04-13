@@ -63,10 +63,17 @@
       flex-wrap: wrap;
      }
 
-     footer{
+    
+     .footer-section.flex{
       flex-direction: column;
      }
-     
+     .parant-all-section.flex{
+      flex-direction: column;
+     }
+        .boos-container.flex{
+        text-align: center;
+            flex-direction: column;
+        }
 
   }
   @media screen and (max-width :770px){
