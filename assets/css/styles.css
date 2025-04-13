@@ -354,3 +354,64 @@ border: solid 1.4px blue;
   -ms-border-radius: 55px;
   -o-border-radius: 55px;
 }
+
+footer{
+  background-color:#458FF6;
+  color: white;
+}
+
+.Circle-white-logo{
+  position: relative;
+  
+  
+}
+.footer-section1-white-logo-text{
+  width: 38%;
+}
+
+.footer-section1-white-logo-text  p{
+  width: 100%;
+}
+
+
+
+
+.footer-section{
+  padding: 109px 0 113px 0;
+
+}
+.footer-section.flex{
+  justify-content:flex-start;
+  gap: 145px;
+}
+.parant-all-section{
+  gap: 130px;
+}
+
+.footer-para{
+  padding: 22px 0 31px 0;
+}
+.T-text-logo{
+  padding-right: 2px;
+  position: absolute;
+  right: 0.5px;
+  top: 5px;
+  transform: translate(-50%,50%);
+  -webkit-transform: translate(-50%,50%);
+  -moz-transform: translate(-50%,50%);
+  -ms-transform: translate(-50%,50%);
+  -o-transform: translate(-50%,50%);
+}
+
+.img-flex.flex{
+    justify-content:flex-start;
+     
+    gap: 10px;
+    align-items: center;
+}
+
+.img-flex{
+ padding-top: 20px ;
+}
+
+
